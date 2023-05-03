@@ -39,7 +39,8 @@ var actionsByColumn = {
   105: "Onboarding_Email_Sent"
 };
 
-// SpreadSheets Names
+// SpreadSheets Names - All of these are constants
+  // Just inform Tina and/or Holly to update the content in the spreadsheet itself
 var currentDashboardSheetName = "Dashboard";
 var updatesSheetName = "Updates";
 var projectCodesSheetName = "PaycomProjectCodes";
