@@ -28,11 +28,11 @@ var docDraftsFolderId = "11mBnoi8PgMSxZdq0sIa4xqxw9CD1rLrA";                    
 var pdfDraftsFolderId = "1026V89neIDCOByXirz4nmEP6WRo39W0C";                                    // https://drive.google.com/drive/u/0/folders/1026V89neIDCOByXirz4nmEP6WRo39W0C
 var courseTestersDraftsFolderId = "1MNhMuJuh-qTtyBSWHLWnLRwcM45Tasqv";                          // https://drive.google.com/drive/u/0/folders/1MNhMuJuh-qTtyBSWHLWnLRwcM45Tasqv
 
-var contractorOfferTemplateFileId = "1EjQPBOdXlSV848jfptcwOmt2WrKMA7G09oarErptY2c";
-var standardOfferTemplateFileId = "1QfLO2CvN6m61EsoNTgbVv3MIU9cz65jSEhRpJLeJoHc";
-var stanadrdSFBasedOfferTemplateFileId = "18489Ji66TgQNL2cphU5WkB1cojXr71ZKH_DvK_9_SOI";
-var courseTestersTemplateFileId = "1XJxSGsIqhShnNs2GegJUCFQreQYgvP-LDlkZPW2YP4M";
-var stipendOfferTemplateFileId = "1kz79LxPV58lyLtq-T63-DF_ZUEGpaO0_1eBOebsucoY";
+var contractorOfferTemplateFileId = "1aKtcrOMxnewCDAiyMguL8KRDFZ63ptZCaVlALB-3gcc";             // https://docs.google.com/document/d/1aKtcrOMxnewCDAiyMguL8KRDFZ63ptZCaVlALB-3gcc/edit
+var standardOfferTemplateFileId = "1KcjsDskNrh35-RxEcx8w7bMJslaTXWuPERVNLrtCACQ";               // https://docs.google.com/document/d/1KcjsDskNrh35-RxEcx8w7bMJslaTXWuPERVNLrtCACQ/edit
+var stanadrdSFBasedOfferTemplateFileId = "1pcCriW0z7CU0TrMR8MuQgwVSOi1x5GjQclq9HFCa4aQ";        // https://docs.google.com/document/d/1pcCriW0z7CU0TrMR8MuQgwVSOi1x5GjQclq9HFCa4aQ/edit
+var courseTestersTemplateFileId = "1jnrBDfIudt9c--Ki5rUE7lRXZ0kS2KZDMHt8jTfLqUs";               // https://docs.google.com/document/d/1jnrBDfIudt9c--Ki5rUE7lRXZ0kS2KZDMHt8jTfLqUs/edit
+var stipendOfferTemplateFileId = "1yzZpH1n6EIUj3ZrP5jM2UGRTKpaInSVQj1tzYNXeciM";                // https://docs.google.com/document/d/1yzZpH1n6EIUj3ZrP5jM2UGRTKpaInSVQj1tzYNXeciM/edit
 
 function getSheetDataByFileIdAndSheetName(fileId, sheetName) {
   // Imports data from managers sheet
